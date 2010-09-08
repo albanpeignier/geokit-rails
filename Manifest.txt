@@ -5,7 +5,7 @@ README.markdown
 Rakefile
 about.yml
 assets/api_keys_template
-geokit-rails.gemspec.old
+geokit-rails.gemspec
 init.rb
 install.rb
 lib/geokit-rails.rb
